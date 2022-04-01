@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+    background-image: url(../image/img/fond.jpg);
+    backdrop-filter: blur(8px);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-width:100%;
+    min-height:100%;
+}
+h1{
+    background-color:whitesmoke;
+    color:black;
+    display:flex;
+    width:85%;
+    height:875px;
+    margin: auto 5%;
+    box-shadow: -10px 0px 5px 7px black;
+}
+table{
+    border: medium solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+th{
+    background-color: red;
+}
+td{
+    padding:10px;
+}
